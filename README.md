@@ -1,2 +1,3 @@
 # PraktikumPBP8
-Praktikum 8 PBP Android Studio Intent
+Praktikum PBP 8 - Android Studio - Intent<br>
+2 November 2022
