@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PBP8</string>
+    <string name="identitas_mahasiswa">Identitas Mahasiswa</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nim">NIM</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="email">Email</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="identitas">Identitas</string>
+    <string name="lakukan_panggilan">Lakukan Panggilan</string>
+    <string name="kirim_email">Kirim Email</string>
+</resources>
